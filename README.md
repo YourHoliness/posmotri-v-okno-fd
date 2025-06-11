@@ -13,4 +13,4 @@
 
 ## Ссылка на проект
 
-[https://github.com/YourHoliness/posmotri-v-okno-fd](https://github.com/YourHoliness/posmotri-v-okno-fd)
+https://github.com/YourHoliness/posmotri-v-okno-fd
